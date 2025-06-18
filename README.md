@@ -1,35 +1,10 @@
 # Seers' Day Planner
 
-Seers’ Day Planner is a mystical productivity web app designed to align your daily tasks with emotional and spiritual cycles. Created with React and Tailwind CSS, it includes:
+This is the complete GitHub- and Vercel-ready version of the Seers' Day Planner app.
 
-- 🌓 Emotional Cycle Guidance
-- 🗓️ 52-Day Birthday Cycles
-- ✅ Task Management + Reminders
-- 🔐 Access Code Gate for Paid Users
-- 🌗 Dark Mode Toggle
-- 📅 Calendar View
-- 📝 Notes Section
-
-## 🔐 Access
-
-Access Code: `SEERS2024`
-
-Live Demo: [coming soon](https://seers-day-planner.vercel.app)
-
-## 🛠 Tech Stack
-
-- React
-- Tailwind CSS
-- Lucide Icons
-- LocalStorage for persistence
-- Optional deployment: Vercel
-
-## 💼 Monetization Ready
-
-Designed for Gumroad integration:
-- Users purchase access
-- Receive access code + live link
-
----
-
-© 2025 SEERS DAY PLANNER | All rights reserved.
+Features:
+- Emotional cycle tracker
+- 52-day birthday cycle logic
+- Tasks, notes, reminders
+- Access code protection
+- Vercel + GitHub ready
