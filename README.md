@@ -1,10 +1,5 @@
 # Seers' Day Planner
 
-This is the complete GitHub- and Vercel-ready version of the Seers' Day Planner app.
-
-Features:
-- Emotional cycle tracker
-- 52-day birthday cycle logic
-- Tasks, notes, reminders
-- Access code protection
-- Vercel + GitHub ready
+A fully functional React-based planner application using Tailwind CSS.  
+Built for Vercel + GitHub deployment.  
+Includes task management, emotional cycles, birthday cycles, and dark mode.
