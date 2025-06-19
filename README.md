@@ -1,3 +1,2 @@
-# Seers' Day Planner
-
-Spiritual + intuitive productivity planner. Includes access-code gate.
+# SEERS' DAY PLANNER
+A spiritual productivity app.
